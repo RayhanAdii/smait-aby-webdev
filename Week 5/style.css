@@ -1,0 +1,76 @@
+
+body {
+    margin:0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    margin: 0;
+}
+
+
+.navbar{
+    height: 50px;
+    background-color: darkcyan;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nama-diri{
+    padding: 7px 15px 20px 20px;
+}
+
+nav ul li{
+    display: inline;
+    padding-right: 15px;
+}
+
+nav {
+    padding-right: 30px;
+}
+
+nav ul li a{
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.data-diri{
+    height: 600px;
+    background-color: darkgray;
+    display: flex;
+    justify-content: space-between;
+}
+
+.foto-diri{
+    width: 200px;
+    height: 200px;
+    margin-top : 180px;
+    margin-left : 350px;
+    border-radius: 50%;
+}
+
+.tulisan-diri{
+    margin-top: 200px;
+    margin-right: 300px;
+}
+
+.tulisan-hi {
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+.btn-about-me {
+    background-color: green;
+    padding: 10px 30px;
+    color: white;
+    text-decoration: none;
+    border-radius: 7px;
+    opacity: 0.8;
+}
+
+.btn:hover{
+    opacity: 1;
+    /* background-color: aqua; */
+}
