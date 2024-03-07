@@ -1,0 +1,28 @@
+body{
+    background-color: grey;
+}
+
+h1 {
+    color: red;
+}
+
+
+.tulisan-biru {
+    color: blue;
+}
+
+.tulisan-hijau{
+    color: green;
+}
+
+.tulisan-besar{
+    font-size: 40px;
+}
+
+.tulisan-sedang{
+    font-size: 30px;
+}
+
+.tulisan-kecil{
+    font-size: 10px
+}
